@@ -51,6 +51,7 @@ public class ServerThread extends Thread {
 				e.printStackTrace();	
 			}			
 			System.out.println("Output closed.");
+			System.out.println("Dez edited");
 		}
 
 	}
